@@ -8,7 +8,7 @@ I'm a Computer Science Engineer who loves coding, solving tough problems and sta
 I really enjoy learning new things and I'm always looking for new challenges.
 In addition to my technical pursuits, I am interested in personal improvement. This dedication extends beyond the realm of code, as a well-rounded individual contributes more meaningfully to the world around him.
 
-📚 **▸** I have a Bachelor Degree (BSc) in Computer Science Engineering at [Politecnico Di Milano](https://www.polimi.it/).
+📚 **▸** I have a Bachelor Degree (BSc) in Computer Science Engineering at [Politecnico Di Milano](https://www.polimi.it/).  
 📚 **▸** I have a Master Degree (MSc) in Computer Science Engineering at [Politecnico Di Milano](https://www.polimi.it/).
 </div>
 
