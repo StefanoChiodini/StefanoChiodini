@@ -25,10 +25,9 @@ Some Programming Languages:
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
 
-
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
 
 
 Some Useful Python Library:
@@ -41,7 +40,7 @@ Some Database System:
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
   
-Other interesting Stuff:
+Other interesting Stuff:  
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">&nbsp;&nbsp;
 </div>
 
